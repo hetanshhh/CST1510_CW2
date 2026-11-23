@@ -1,0 +1,100 @@
+name,description,language,stars,forks,forks,url,url,updated_at
+getpython3.com,getpython3.com page and resources.,CSS,46,15,15,https://github.com/python/getpython3.com,https://api.github.com/repos/python/getpython3.com,2026-09-07T02:12:33Z
+community-starter-kit,Collection of resources for Python community organizers,Python,52,23,23,https://github.com/python/community-starter-kit,https://api.github.com/repos/python/community-starter-kit,2026-09-09T01:53:00Z
+psf-docs,PSF Docs,Python,23,9,9,https://github.com/python/psf-docs,https://api.github.com/repos/python/psf-docs,2026-08-27T10:32:30Z
+historic-python-materials,Contains some old pages from python.org,Python,24,14,14,https://github.com/python/historic-python-materials,https://api.github.com/repos/python/historic-python-materials,2026-10-05T07:29:43Z
+psf-chef,Chef configuration and cookbooks for the Python Software Foundation,Ruby,47,34,34,https://github.com/python/psf-chef,https://api.github.com/repos/python/psf-chef,2026-08-27T10:32:28Z
+psfoutreach,PSF Outreach website,Shell,8,7,7,https://github.com/python/psfoutreach,https://api.github.com/repos/python/psfoutreach,2026-08-27T10:32:32Z
+pythondotorg,Source code for python.org,Python,1673,712,712,https://github.com/python/pythondotorg,https://api.github.com/repos/python/pythondotorg,2026-11-19T18:51:17Z
+mypy,Optional static typing for Python,Python,20732,3492,3492,https://github.com/python/mypy,https://api.github.com/repos/python/mypy,2026-11-21T05:34:18Z
+raspberryio,Source code for raspberry.io,Python,229,38,38,https://github.com/python/raspberryio,https://api.github.com/repos/python/raspberryio,2026-08-27T10:32:52Z
+pycon-code-of-conduct,pycon code of conduct,,118,91,91,https://github.com/python/pycon-code-of-conduct,https://api.github.com/repos/python/pycon-code-of-conduct,2026-11-03T12:50:59Z
+peps,Python Enhancement Proposals,reStructuredText,5040,1823,1823,https://github.com/python/peps,https://api.github.com/repos/python/peps,2026-11-19T19:04:13Z
+psf-salt,PSF infrastructure configuration,Hurl,125,71,71,https://github.com/python/psf-salt,https://api.github.com/repos/python/psf-salt,2026-11-09T17:13:05Z
+docsbuild-scripts,Scripts for building the documentation on docs.python.org,Python,83,72,72,https://github.com/python/docsbuild-scripts,https://api.github.com/repos/python/docsbuild-scripts,2026-11-12T09:49:44Z
+planet,Configuration for Python planets,Python,144,203,203,https://github.com/python/planet,https://api.github.com/repos/python/planet,2026-11-02T09:37:27Z
+typing,Python static typing home. Hosts the documentation and a user help forum.,Python,1784,311,311,https://github.com/python/typing,https://api.github.com/repos/python/typing,2026-11-19T22:54:56Z
+speed.python.org,,HTML,15,2,2,https://github.com/python/speed.python.org,https://api.github.com/repos/python/speed.python.org,2026-08-27T10:32:54Z
+typeshed,"Collection of library stubs for Python, with static types",Python,5156,2154,2154,https://github.com/python/typeshed,https://api.github.com/repos/python/typeshed,2026-11-21T12:09:48Z
+asyncio,asyncio historical repository,,1081,180,180,https://github.com/python/asyncio,https://api.github.com/repos/python/asyncio,2026-11-19T19:32:47Z
+buildbot,Fork of BuildBot formerly running on buildbot.python.org,Python,8,7,7,https://github.com/python/buildbot,https://api.github.com/repos/python/buildbot,2026-08-27T10:32:04Z
+psf-packages,Packages for the PSF infrastructure,HTML,9,4,4,https://github.com/python/psf-packages,https://api.github.com/repos/python/psf-packages,2026-08-27T10:32:31Z
+typed_ast,Modified fork of CPython's ast module that parses `# type:` comments,C,234,53,53,https://github.com/python/typed_ast,https://api.github.com/repos/python/typed_ast,2026-08-27T10:32:57Z
+the-knights-who-say-ni,CLA enforcement bot for Python organization projects,Python,86,33,33,https://github.com/python/the-knights-who-say-ni,https://api.github.com/repos/python/the-knights-who-say-ni,2026-09-18T23:32:31Z
+devinabox,Documentation and tools to help host a sprint on Python core development,Python,19,8,8,https://github.com/python/devinabox,https://api.github.com/repos/python/devinabox,2026-08-27T10:32:13Z
+pythontestdotnet,source of pythontest.net (resources used for Python test suite),HTML,15,11,11,https://github.com/python/pythontestdotnet,https://api.github.com/repos/python/pythontestdotnet,2026-09-16T15:41:23Z
+pythonineducation.org,The pythonineducation.org website,HTML,33,27,27,https://github.com/python/pythonineducation.org,https://api.github.com/repos/python/pythonineducation.org,2026-08-27T10:32:51Z
+tlsproxy,,Python,10,8,8,https://github.com/python/tlsproxy,https://api.github.com/repos/python/tlsproxy,2026-08-27T10:32:56Z
+devguide,The Python developer's guide,Python,2114,1095,1095,https://github.com/python/devguide,https://api.github.com/repos/python/devguide,2026-11-19T20:04:39Z
+overload-sig,"Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",,6,3,3,https://github.com/python/overload-sig,https://api.github.com/repos/python/overload-sig,2026-08-27T10:32:25Z
+pyperformance,Python Performance Benchmark Suite,Python,1044,213,213,https://github.com/python/pyperformance,https://api.github.com/repos/python/pyperformance,2026-11-20T18:44:39Z
+release-tools,Scripts for making (C)Python releases,Python,66,49,49,https://github.com/python/release-tools,https://api.github.com/repos/python/release-tools,2026-11-13T04:17:23Z
+core-workflow,Issue tracker for CPython's workflow,Python,103,58,58,https://github.com/python/core-workflow,https://api.github.com/repos/python/core-workflow,2026-11-18T17:04:14Z
+buildmaster-config,Configuration for buildbot.python.org,Python,61,64,64,https://github.com/python/buildmaster-config,https://api.github.com/repos/python/buildmaster-config,2026-11-12T15:56:11Z
+cpython,The Python programming language,Python,78439,36559,36559,https://github.com/python/cpython,https://api.github.com/repos/python/cpython,2026-11-21T13:44:15Z
+docker-bpo,Docker image for bugs.python.org,Python,15,15,15,https://github.com/python/docker-bpo,https://api.github.com/repos/python/docker-bpo,2026-08-27T10:32:14Z
+bedevere,A bot to help identify missing information for CPython pull requests,Python,142,68,68,https://github.com/python/bedevere,https://api.github.com/repos/python/bedevere,2026-11-20T11:30:19Z
+cpython-source-deps,Source for packages that the cpython build process depends on,,31,49,49,https://github.com/python/cpython-source-deps,https://api.github.com/repos/python/cpython-source-deps,2026-11-11T16:21:03Z
+cpython-bin-deps,Binaries that the cpython build process depends on,,31,37,37,https://github.com/python/cpython-bin-deps,https://api.github.com/repos/python/cpython-bin-deps,2026-08-27T10:32:10Z
+python-docs-fr,Mirroir de https://git.afpy.org/AFPy/python-docs-fr,Python,355,260,260,https://github.com/python/python-docs-fr,https://api.github.com/repos/python/python-docs-fr,2026-11-19T20:28:36Z
+python-docs-theme,Sphinx theme for Python documentation,CSS,90,82,82,https://github.com/python/python-docs-theme,https://api.github.com/repos/python/python-docs-theme,2026-11-04T21:24:32Z
+python-docs-hu,Hungarian Translation of the Python Documentation,,13,8,8,https://github.com/python/python-docs-hu,https://api.github.com/repos/python/python-docs-hu,2026-08-27T10:32:39Z
+python-docs-ja,Japanese Translation of the Python Documentation,Python,75,39,39,https://github.com/python/python-docs-ja,https://api.github.com/repos/python/python-docs-ja,2026-11-12T00:49:36Z
+python-docs-bn-in,Bengali Translation of the Python Documentation,Makefile,7,3,3,https://github.com/python/python-docs-bn-in,https://api.github.com/repos/python/python-docs-bn-in,2026-10-21T02:54:12Z
+python-docs-pt-br,Brazilian Portuguese translation of the Python Documentation,Python,166,44,44,https://github.com/python/python-docs-pt-br,https://api.github.com/repos/python/python-docs-pt-br,2026-11-07T22:29:41Z
+psf-infra-meta,Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :),,12,7,7,https://github.com/python/psf-infra-meta,https://api.github.com/repos/python/psf-infra-meta,2026-08-27T10:32:30Z
+consul-operator,A kubernetes operator for consul,Go,19,5,5,https://github.com/python/consul-operator,https://api.github.com/repos/python/consul-operator,2026-08-27T10:32:08Z
+redistributor-guide,Guidance & recommendations for anyone publishing their own binary builds of CPython,,9,3,3,https://github.com/python/redistributor-guide,https://api.github.com/repos/python/redistributor-guide,2026-08-27T10:32:53Z
+psf-community-resources,Short guides to PSF-related resources,,14,5,5,https://github.com/python/psf-community-resources,https://api.github.com/repos/python/psf-community-resources,2026-08-27T10:32:29Z
+miss-islington,🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests,Python,117,46,46,https://github.com/python/miss-islington,https://api.github.com/repos/python/miss-islington,2026-11-11T17:46:37Z
+bpo-builder,bugs.python.org builder image & other deployment artifacts,Python,8,4,4,https://github.com/python/bpo-builder,https://api.github.com/repos/python/bpo-builder,2026-08-27T10:32:03Z
+python-docs-ko,Korean translation of the Python documentation,,78,57,57,https://github.com/python/python-docs-ko,https://api.github.com/repos/python/python-docs-ko,2026-10-14T08:40:48Z
+python-dev-survey,Place for gathering feedback from the public on the Python Developers Survey,,12,2,2,https://github.com/python/python-dev-survey,https://api.github.com/repos/python/python-dev-survey,2026-08-27T10:32:35Z
+bugs.python.org,Meta-issue tracker for bugs.python.org,,13,6,6,https://github.com/python/bugs.python.org,https://api.github.com/repos/python/bugs.python.org,2026-08-27T10:32:04Z
+python-docs-zh-tw,Traditional Chinese (zh-tw) translation of the Python Documentation,Python,287,231,231,https://github.com/python/python-docs-zh-tw,https://api.github.com/repos/python/python-docs-zh-tw,2026-11-16T16:16:31Z
+blurb_it,`blurb add` over the internet,Python,35,24,24,https://github.com/python/blurb_it,https://api.github.com/repos/python/blurb_it,2026-11-01T04:16:46Z
+python-docs-zh-cn,Simplified Chinese translation of the Python documentation,,472,107,107,https://github.com/python/python-docs-zh-cn,https://api.github.com/repos/python/python-docs-zh-cn,2026-11-20T03:30:27Z
+mypy_extensions,Extensions for mypy,Python,157,42,42,https://github.com/python/mypy_extensions,https://api.github.com/repos/python/mypy_extensions,2026-11-15T07:46:19Z
+steering-council,Communications from the Steering Council,Makefile,183,36,36,https://github.com/python/steering-council,https://api.github.com/repos/python/steering-council,2026-11-15T11:56:49Z
+codespeed,A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org,Python,41,23,23,https://github.com/python/codespeed,https://api.github.com/repos/python/codespeed,2026-11-11T00:01:59Z
+python-docs-it,Italian translation of the Python documentation.,,16,13,13,https://github.com/python/python-docs-it,https://api.github.com/repos/python/python-docs-it,2026-08-27T10:32:40Z
+python-docs-es,Spanish translation of the Python documentation.,Python,372,417,417,https://github.com/python/python-docs-es,https://api.github.com/repos/python/python-docs-es,2026-11-19T21:23:08Z
+cherry-picker,🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.,Python,66,53,53,https://github.com/python/cherry-picker,https://api.github.com/repos/python/cherry-picker,2026-11-12T15:23:01Z
+.github,Organization-wide GitHub settings,,15,35,35,https://github.com/python/.github,https://api.github.com/repos/python/.github,2026-09-07T18:43:54Z
+python-docs-id,Terjemahan Bahasa Indonesia untuk Dokumentasi Python,Python,82,28,28,https://github.com/python/python-docs-id,https://api.github.com/repos/python/python-docs-id,2026-11-12T01:21:30Z
+python-docs-pl,Polskie tłumaczenie dokumentacji Pythona,Python,60,17,17,https://github.com/python/python-docs-pl,https://api.github.com/repos/python/python-docs-pl,2026-11-20T10:47:27Z
+exceptiongroups,An early draft of a PEP around Exception Groups in Python,,23,3,3,https://github.com/python/exceptiongroups,https://api.github.com/repos/python/exceptiongroups,2026-08-27T10:32:17Z
+hugs.python.org,,,11,3,3,https://github.com/python/hugs.python.org,https://api.github.com/repos/python/hugs.python.org,2026-08-27T10:32:19Z
+tzdata,Python package wrapping the IANA time zone database,Python,125,27,27,https://github.com/python/tzdata,https://api.github.com/repos/python/tzdata,2026-11-20T10:47:28Z
+pythoncapi-compat,  The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.,C++,112,43,43,https://github.com/python/pythoncapi-compat,https://api.github.com/repos/python/pythoncapi-compat,2026-11-04T22:03:42Z
+core-sprint,Repo for Virtual Core Dev Sprint 2020,Python,18,16,16,https://github.com/python/core-sprint,https://api.github.com/repos/python/core-sprint,2026-08-27T10:32:08Z
+importlib_resources,Backport of the importlib.resources module,Python,75,54,54,https://github.com/python/importlib_resources,https://api.github.com/repos/python/importlib_resources,2026-11-15T08:26:12Z
+importlib_metadata,Library to access metadata for Python packages,Python,143,106,106,https://github.com/python/importlib_metadata,https://api.github.com/repos/python/importlib_metadata,2026-11-15T07:46:18Z
+pootle-python-org-backup,,Python,6,5,5,https://github.com/python/pootle-python-org-backup,https://api.github.com/repos/python/pootle-python-org-backup,2026-08-27T10:32:27Z
+language-summit,Resources for the annual Python Language Summit,,9,2,2,https://github.com/python/language-summit,https://api.github.com/repos/python/language-summit,2026-09-07T18:44:51Z
+docs-community,Community management for documentation contributors and the Docs Workgroup,Makefile,56,29,29,https://github.com/python/docs-community,https://api.github.com/repos/python/docs-community,2026-11-21T08:35:46Z
+discord-bot,Discord Bot for Core Devs Discord server,Python,25,10,10,https://github.com/python/discord-bot,https://api.github.com/repos/python/discord-bot,2026-08-27T10:32:14Z
+python-docs-tr,Turkish Translation of the Python Documentation,Python,128,49,49,https://github.com/python/python-docs-tr,https://api.github.com/repos/python/python-docs-tr,2026-10-12T09:06:41Z
+typing_extensions,Backported and experimental type hints for Python,Python,595,155,155,https://github.com/python/typing_extensions,https://api.github.com/repos/python/typing_extensions,2026-11-19T22:34:59Z
+python-docs-uk,Ukrainian translation of the Python Documentation,Makefile,33,15,15,https://github.com/python/python-docs-uk,https://api.github.com/repos/python/python-docs-uk,2026-08-27T10:32:47Z
+bench_runner,Code for running pyperformance benchmarks on Github Action runners,Python,10,12,12,https://github.com/python/bench_runner,https://api.github.com/repos/python/bench_runner,2026-11-16T18:40:36Z
+typing-council,Decisions by the Python Typing Council,,57,3,3,https://github.com/python/typing-council,https://api.github.com/repos/python/typing-council,2026-10-15T14:13:32Z
+python-docs-ru,Russian Translation of the Python Docs,,21,6,6,https://github.com/python/python-docs-ru,https://api.github.com/repos/python/python-docs-ru,2026-11-03T12:45:57Z
+editorial-board,Communications of the Python Documentation Editorial Board,HTML,14,3,3,https://github.com/python/editorial-board,https://api.github.com/repos/python/editorial-board,2026-11-12T15:47:23Z
+python-docs-el,Greek Translation of the Python Documentation,Python,30,25,25,https://github.com/python/python-docs-el,https://api.github.com/repos/python/python-docs-el,2026-08-27T10:32:36Z
+blurb,Command-line tool to manage CPython Misc/NEWS.d entries,Python,23,16,16,https://github.com/python/blurb,https://api.github.com/repos/python/blurb,2026-11-08T20:49:57Z
+webhook-mailer,GitHub Webhooks -> Email,Python,4,4,4,https://github.com/python/webhook-mailer,https://api.github.com/repos/python/webhook-mailer,2026-08-27T10:33:00Z
+psrt-ghsa-bot,Bot which adds the PSRT GitHub team and CVE IDs to GitHub Security Advisories,Python,7,4,4,https://github.com/python/psrt-ghsa-bot,https://api.github.com/repos/python/psrt-ghsa-bot,2026-11-05T16:18:49Z
+cpython-devcontainers,Repository for devcontainers of CPython,Dockerfile,16,28,28,https://github.com/python/cpython-devcontainers,https://api.github.com/repos/python/cpython-devcontainers,2026-11-02T22:59:05Z
+python-docs-fa,Farsi (Persian) translation of the official Python documentation,Python,107,19,19,https://github.com/python/python-docs-fa,https://api.github.com/repos/python/python-docs-fa,2026-11-15T23:36:36Z
+python-docs-ro,O traducere în românește a documentației Python.,PowerShell,3,4,4,https://github.com/python/python-docs-ro,https://api.github.com/repos/python/python-docs-ro,2026-08-27T10:32:44Z
+pymanager,The Python Install Manager (for Windows),Python,376,84,84,https://github.com/python/pymanager,https://api.github.com/repos/python/pymanager,2026-11-17T08:20:24Z
+memory.python.org,A memory benchmarking and analysis tool for CPython development,Python,19,9,9,https://github.com/python/memory.python.org,https://api.github.com/repos/python/memory.python.org,2026-08-27T10:32:22Z
+python-docs-sv,Sweedish Translation of the Python Documentation,,2,1,1,https://github.com/python/python-docs-sv,https://api.github.com/repos/python/python-docs-sv,2026-08-27T10:32:45Z
+prebuilt-cpython,Repository for discussing/planning prebuilt binaries of CPython,Python,33,11,11,https://github.com/python/prebuilt-cpython,https://api.github.com/repos/python/prebuilt-cpython,2026-11-09T18:32:11Z
+library-fuzzers,"Fuzzer definitions, seed corpora and dictionaries to fuzz-test the stdlib",Python,7,11,11,https://github.com/python/library-fuzzers,https://api.github.com/repos/python/library-fuzzers,2026-11-05T08:14:41Z
+python-insider-blog,,Astro,32,14,14,https://github.com/python/python-insider-blog,https://api.github.com/repos/python/python-insider-blog,2026-11-10T22:07:19Z
+python-docs-pa,Punjabi (India) translation of the Python Documentation.,,6,4,4,https://github.com/python/python-docs-pa,https://api.github.com/repos/python/python-docs-pa,2026-11-12T20:26:41Z
+python-docs-de,German translation of the Python Documentation,Python,1,2,2,https://github.com/python/python-docs-de,https://api.github.com/repos/python/python-docs-de,2026-11-09T06:05:29Z
+turtle-translations,Translations of the docstrings of Python's 'turtle' module.,Python,2,2,2,https://github.com/python/turtle-translations,https://api.github.com/repos/python/turtle-translations,2026-10-17T23:04:04Z
+packaging-council,Public Records from the Python Packaging Council,,6,4,4,https://github.com/python/packaging-council,https://api.github.com/repos/python/packaging-council,2026-11-20T18:46:36Z
